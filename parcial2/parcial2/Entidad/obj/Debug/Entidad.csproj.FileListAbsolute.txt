@@ -1,0 +1,12 @@
+C:\Users\dsmoy\source\repos\parcial2\Entidad\bin\Debug\Entidad.dll
+C:\Users\dsmoy\source\repos\parcial2\Entidad\bin\Debug\Entidad.pdb
+C:\Users\dsmoy\source\repos\parcial2\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\dsmoy\source\repos\parcial2\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\dsmoy\source\repos\parcial2\Entidad\obj\Debug\Entidad.dll
+C:\Users\dsmoy\source\repos\parcial2\Entidad\obj\Debug\Entidad.pdb
+C:\Users\jorge\Downloads\parcial2\parcial2\Entidad\bin\Debug\Entidad.dll
+C:\Users\jorge\Downloads\parcial2\parcial2\Entidad\bin\Debug\Entidad.pdb
+C:\Users\jorge\Downloads\parcial2\parcial2\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\jorge\Downloads\parcial2\parcial2\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Downloads\parcial2\parcial2\Entidad\obj\Debug\Entidad.dll
+C:\Users\jorge\Downloads\parcial2\parcial2\Entidad\obj\Debug\Entidad.pdb

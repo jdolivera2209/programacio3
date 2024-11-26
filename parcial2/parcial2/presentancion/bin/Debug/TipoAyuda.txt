@@ -1,0 +1,4 @@
+01;Alimentación;5
+02;Beca de transporte;4
+03;Equipo de cómputo;2
+04;Conectividad a Internet;0
